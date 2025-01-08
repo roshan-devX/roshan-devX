@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N and Dev tools also**
 
-- 🤝 I’m looking for help with **Networking**
+- 🤝 I’m looking for help with **Collaboration**
 
 - 📫 How to reach me **roshan04vp@gmail.com**
 
