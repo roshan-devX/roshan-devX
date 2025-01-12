@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan VP</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **M.E.R.N and Dev tools also**
 
